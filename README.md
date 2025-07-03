@@ -6,7 +6,7 @@ A responsive and dynamic web application for managing internal assessments at KL
 
 ## 🎥 Live Demo
 
-https://github.com/Savita-Sidnal/Internal-Assessment-Portal-Using-React/assets/your-username/your-video-id
+
 
 > 📌 *Click above to view the working demonstration of the portal.*
 
@@ -48,5 +48,5 @@ https://github.com/Savita-Sidnal/Internal-Assessment-Portal-Using-React/assets/y
 | Layer         | Technology                           |
 |---------------|--------------------------------------|
 | Frontend      | React.js, HTML5, CSS3, Bootstrap     |
-| Backend/DB    | SQL (MySQL or PostgreSQL)            |
+| Backend/DB    | SQL (MySQL)            |
 | Dev Tools     | Vite, Node.js, npm                   |
