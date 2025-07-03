@@ -6,17 +6,24 @@ A responsive and dynamic web application for managing internal assessments at KL
 
 ## 🎥 Live Demo
 
+[![Watch Video](./screenshots/main_page.png)](./screenshots/demo_video.mp4)
 
-
-> 📌 *Click above to view the working demonstration of the portal.*
+> 📌 *Click the image to watch a working demo of the Internal Assessment Portal.*
 
 ---
 
 ## 📸 Preview
 
+### 🏠 Home Page  
 ![Home Page](./screenshots/main_page.png)
+
+### 🔐 Login Page  
 ![Login Page](./screenshots/login_page.png)
+
+### 👩‍🏫 Faculty Dashboard  
 ![Faculty Dashboard](./screenshots/faculty_dashboard.png)
+
+### 👨‍🎓 Student Portal  
 ![Student Dashboard](./screenshots/student_portal.png)
 
 ---
@@ -48,5 +55,6 @@ A responsive and dynamic web application for managing internal assessments at KL
 | Layer         | Technology                           |
 |---------------|--------------------------------------|
 | Frontend      | React.js, HTML5, CSS3, Bootstrap     |
-| Backend/DB    | SQL (MySQL)            |
+| Backend/DB    | SQL (MySQL)                          |
 | Dev Tools     | Vite, Node.js, npm                   |
+
