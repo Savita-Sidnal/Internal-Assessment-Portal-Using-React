@@ -1,0 +1,135 @@
+/* General styles for the Student Dashboard */
+.student-dashboard {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: linear-gradient(to bottom, #4458a5, #e4b068);
+  min-height: 100vh;
+  color: #333;
+}
+
+/* Heading styles */
+.student-dashboard h1 {
+  font-size: 2.5rem;
+  color: #fff;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.student-dashboard p {
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Dashboard sections */
+.dashboard-sections {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+/* Table container styles */
+.table-container {
+  flex: 1;
+  min-width: 300px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+/* Section headers */
+.table-container h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+}
+
+td {
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+tr:nth-child(even) td {
+  background-color: #f1f1f1;
+}
+
+/* Performance list styling */
+ul.performance-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.performance-list li {
+  padding: 10px;
+  background-color: #e9f5e9;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+ul.performance-list li:nth-child(odd) {
+  background-color: #f2f7f2;
+}
+
+.performance-performance {
+  font-weight: bold;
+}
+
+/* Error message styling */
+.error-message {
+  color: #f44336;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 20px;
+  background-color: #fce4e4;
+  border: 1px solid #f44336;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Loading styles */
+.loading {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #fff;
+  margin-top: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .dashboard-sections {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .table-container {
+    min-width: 100%;
+  }
+
+  .student-dashboard h1 {
+    font-size: 2rem;
+  }
+}

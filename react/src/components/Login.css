@@ -1,0 +1,97 @@
+body { 
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #1e3a8a, #facc15); /* Lighter yellow gradient */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .login-card {
+    background-color: rgba(255, 255, 255, 0.95); /* Slightly less transparency */
+    border-radius: 15px;
+    padding: 60px 45px; /* Increased padding for more space */
+    width: 550px; /* Increased width */
+    height: 600px; /* Increased height */
+    text-align: center;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3); /* Stronger shadow */
+  }
+  
+  .login-logo {
+    width: 240px; /* Larger logo */
+    margin-bottom: 20px; /* Increased space */
+    height: 100px;
+  }
+  
+  .login-title {
+    font-size: 32px; /* Increased font size */
+    font-weight: bold;
+    color: #1e3a8a; /* Deep blue */
+    margin: 0;
+  }
+  
+  .login-subtitle {
+    font-size: 18px; /* Slightly larger subtitle */
+    color: #2d3748; /* Darker neutral gray for better contrast */
+    margin-bottom: 35px; /* Increased margin */
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .login-input {
+    background-color: #ffffff; /* White background */
+    margin-bottom: 30px; /* Increased margin between inputs */
+    padding: 14px 16px; /* Slightly larger padding */
+    font-size: 16px; /* Larger font size */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    height: 30px;
+  }
+  
+  .login-input:focus {
+    border-color: #1e3a8a;
+    box-shadow: 0 0 8px rgba(30, 58, 138, 0.5); /* Slight glow effect */
+  }
+  
+  .login-remember input {
+    margin-right: 10px; /* Larger spacing between checkbox and text */
+  }
+  
+  .login-button {
+    background-color: #fbbf24; /* Vibrant yellow */
+    color: #1e3a8a; /* Deep blue text */
+    font-size: 18px; /* Larger font size */
+    font-weight: bold;
+    padding: 14px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 70px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .login-button:hover {
+    background-color: #f59e0b; /* Slightly darker yellow or orange */
+    transform: scale(1.05); /* Button grows slightly */
+  }
+  
+  .login-error {
+    color: #e53e3e; /* Brighter red for error messages */
+    font-size: 14px; /* Larger font size */
+    margin-top: 8px; /* Increased margin */
+  }
+  
+  
