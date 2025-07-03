@@ -14,10 +14,10 @@ A responsive and dynamic web application for managing internal assessments at KL
 
 ## 📸 Preview
 
-![Home Page](./screenshots/homepage.png)
-![Login Page](./screenshots/login.png)
+![Home Page](./screenshots/main_page.png)
+![Login Page](./screenshots/login_page.png)
 ![Faculty Dashboard](./screenshots/faculty_dashboard.png)
-![Student Dashboard](./screenshots/student_dashboard.png)
+![Student Dashboard](./screenshots/student_portal.png)
 
 ---
 
