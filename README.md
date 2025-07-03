@@ -4,17 +4,6 @@ A responsive and dynamic web application for managing internal assessments at KL
 
 ---
 
-## 🎥 Live Demo
-
-<video width="600" controls>
-  <source src="./screenshots/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-> 📌 Click the image to watch a working demo of the Internal Assessment Portal.
-
----
-
 ## 📸 Preview
 
 ### 🏠 Home Page  
