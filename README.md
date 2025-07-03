@@ -6,25 +6,27 @@ A responsive and dynamic web application for managing internal assessments at KL
 
 ## 🎥 Live Demo
 
-[![Watch Video](./screenshots/main_page.png)](./screenshots/demo_video.mp4)
+<a href="./screenshots/demo_video.mp4">
+  <img src="./screenshots/main_page.png" alt="Watch Demo" width="600"/>
+</a>
 
-> 📌 *Click the image to watch a working demo of the Internal Assessment Portal.*
+> 📌 Click the image to watch a working demo of the Internal Assessment Portal.
 
 ---
 
 ## 📸 Preview
 
 ### 🏠 Home Page  
-![Home Page](./screenshots/main_page.png)
+<img src="./screenshots/main_page.png" alt="Home Page" width="600"/>
 
 ### 🔐 Login Page  
-![Login Page](./screenshots/login_page.png)
+<img src="./screenshots/login_page.png" alt="Login Page" width="400"/>
 
 ### 👩‍🏫 Faculty Dashboard  
-![Faculty Dashboard](./screenshots/faculty_dashboard.png)
+<img src="./screenshots/faculty_dashboard.png" alt="Faculty Dashboard" width="600"/>
 
 ### 👨‍🎓 Student Portal  
-![Student Dashboard](./screenshots/student_portal.png)
+<img src="./screenshots/student_portal.png" alt="Student Dashboard" width="600"/>
 
 ---
 
