@@ -23,10 +23,10 @@ A responsive and dynamic web application for managing internal assessments at KL
 <img src="./screenshots/login_page.png" alt="Login Page" width="400"/>
 
 ### 👩‍🏫 Faculty Dashboard  
-<img src="./screenshots/faculty_dashboard.png" alt="Faculty Dashboard" width="600"/>
+<img src="./screenshots/faculty_dashboard.png" alt="Faculty Dashboard" width="400"/>
 
 ### 👨‍🎓 Student Portal  
-<img src="./screenshots/student_portal.png" alt="Student Dashboard" width="600"/>
+<img src="./screenshots/student_portal.png" alt="Student Dashboard" width="400"/>
 
 ---
 
